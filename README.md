@@ -1,23 +1,33 @@
 ## Olá, me chamo Jorge Rufino e é um prazer tê-lo aqui,
 sou formado em Ciência da Computação e estou aperfeiçoando meus conhecimentos em Java, atualmente estou focando no desenvolvimento de RestAPIs com Springboot.
 
-- 📃 Certificado do curso [Especialista Spring REST](https://app.algaworks.com/certs/1II373FGO1) da empresa [AlgaWorks](https://www.algaworks.com/).
 - 💻 Apaixonado por computação e progamação.
+- 📃 Certificado do curso [Especialista Spring REST](https://app.algaworks.com/certs/1II373FGO1) da empresa [AlgaWorks](https://www.algaworks.com/).
+- 📃 Certificado do curso [Java Completo - Progamação Orientada a Objetos](https://www.udemy.com/certificate/UC-c77b5fe9-070d-4d47-b166-8112590be63c/) do prof. Nélio Alves [Udemy](https://www.udemy.com/course/java-curso-completo/learn/lecture/10852448?start=0#overview).
+- 📚 Estudando **Front-end** pela <a href="https://www.alura.com.br/">Alura</a>
+
+## 🎓 Minhas Skills
+<div style="display: inline">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,aws,docker,html,js,css,git,github&theme=light" />
+  </a>
+</div>    
+
+
+## 🛠️ Ferramentas utilizadas
+<div style="display: inline">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,postman,vscode&theme=light" />
+  </a>
+</div>    
+
+<br>
 
 <div style="display: inline"> 
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=jorge-rufino&show_icons=true&theme=tokyonight" />
   <img width="37%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-rufino&layout=compact" />
 </div>
-  
-<div style="display: inline">
-  <img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  &nbsp;&nbsp;<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-</div>    
- 
+   
 ##
  
 ### Você  também pode me encontrar em:
