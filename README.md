@@ -1,3 +1,5 @@
+<img src="https://github.com/jorge-rufino/jorge-rufino/assets/107759349/f8674f84-0e4c-4f4a-847e-cb77008ed78d" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## Olá, me chamo Jorge Rufino e é um prazer tê-lo aqui,
 sou formado em Ciência da Computação e estou aperfeiçoando meus conhecimentos em Java, atualmente estou focando no desenvolvimento de RestAPIs com Springboot.
 
