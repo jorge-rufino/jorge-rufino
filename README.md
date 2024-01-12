@@ -11,7 +11,7 @@ sou formado em Ciência da Computação e estou aperfeiçoando meus conhecimento
 ## 🎓 Minhas Skills
 <div style="display: inline">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,aws,docker,html,js,css,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,aws,docker,html,css,js,ts,angular,git,github&theme=light" />
   </a>
 </div>    
 
