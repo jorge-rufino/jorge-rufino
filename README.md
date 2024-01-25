@@ -7,7 +7,7 @@ sou formado em Ciência da Computação e estou aperfeiçoando meus conhecimento
 - 📃 Certificado do curso [Java Completo - Progamação Orientada a Objetos](https://www.udemy.com/certificate/UC-c77b5fe9-070d-4d47-b166-8112590be63c/) do prof. Nélio Alves [Udemy](https://www.udemy.com/course/java-curso-completo/learn/lecture/10852448?start=0#overview).
 - 📃 Certificado do curso [Especialista Spring REST](https://app.algaworks.com/certs/1II373FGO1) da empresa [AlgaWorks](https://www.algaworks.com/).
 - 📃 Certificado do curso [Web Design Responsivo com HTML5, CSS3 e BEM](https://app.algaworks.com/certs/AJCVQXFMFM) da empresa [AlgaWorks](https://www.algaworks.com/).
-- 📃 Certificado do curso [Mergulhando no JavaScript](https://app.algaworks.com/certs/XRM1N7323V)) da empresa [AlgaWorks](https://www.algaworks.com/).
+- 📃 Certificado do curso [Mergulhando no JavaScript](https://app.algaworks.com/certs/XRM1N7323V) da empresa [AlgaWorks](https://www.algaworks.com/).
 - 📃 Certificado do curso [Melhore sua Experiência de Desenvolvimento com Typescript](https://cursos.alura.com.br/degree/certificate/dd9fe4b8-607b-42ff-8a02-62ac82fbc1ed) da empresa [Alura](https://www.alura.com.br/).
 - 📚 Estudando **Angular** pela <a href="https://www.alura.com.br/">Alura</a>
 
